@@ -1,1 +1,0 @@
-import{u as l,j as T}from"./index-CUnXo-ZD.js";const p=({name:n,className:s,as:r="span"})=>{const{t:o}=l(),c=(t=>{const a=`homePage.teacherNames.${t}`,e=o(a);return e!==a?e:t})(n),m=r;return T.jsx(m,{className:s,children:c})};export{p as T};

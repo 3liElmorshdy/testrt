@@ -1,1 +1,0 @@
-import{j as t}from"./index-CUnXo-ZD.js";function e({value:r}){return t.jsx(t.Fragment,{children:[1,2,3,4,5].map(a=>t.jsx("i",{className:r>=a?"fa-solid fa-star text-yellow-400":r>=a-.5?"fa-solid fa-star-half text-yellow-400":"fa-regular fa-star text-gray-400"},a))})}export{e as R};

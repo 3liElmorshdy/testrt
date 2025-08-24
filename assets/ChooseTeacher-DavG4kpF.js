@@ -1,0 +1,1 @@
+import{j as e,N as r}from"./index-C3nUj576.js";function t(){return e.jsx(e.Fragment,{children:e.jsx("div",{className:"flex flex-col gap-8 justify-center  mb-30  mt-10",children:e.jsx(r,{to:"/",className:"btn border-[var(--secondary-color)] bg-white text-[var(--secondary-color)] w-fit",children:"Back to Home"})})})}export{t as default};

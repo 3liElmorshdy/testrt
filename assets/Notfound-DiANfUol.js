@@ -1,0 +1,1 @@
+import{j as t}from"./index-C3nUj576.js";const s="/testrt/assets/404-error-with-a-cute-animal-animate-8T1NuUPe.svg";function a(){return t.jsx("div",{className:"pt-40 w-3/6 lg:w-2/6 mx-auto",children:t.jsx("img",{src:s,alt:"notfound"})})}export{a as default};

@@ -1,0 +1,1 @@
+import{j as e}from"./index-C3nUj576.js";function t(){return e.jsx(e.Fragment,{children:e.jsx("div",{className:"badge-free absolute top-0 left-0 p-2 bg-[#34b7b4] rounded-br-box rounded-tl-[var(--border-radius)] text-white",children:"1st free"})})}export{t as B};
