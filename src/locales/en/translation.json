@@ -1,0 +1,650 @@
+{
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "goodbye": "Goodbye",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "switchLanguage": "Switch Language",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "login": "Login",
+  "logout": "Logout",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "edit": "Edit",
+  "search": "Search",
+  "teachers": "Teachers",
+  "subject": "Subject",
+  "grade": "Grade",
+  "hourlyRate": "EGP / hour",
+  "viewMore": "View More",
+  "bookNow": "Book Now",
+  "loading": "Loading...",
+  "error": "Error",
+  "searchPage": {
+    "title": "Find your teacher"
+  },
+  "searchFilters": {
+    "searchByName": "Search by Name",
+    "teacherNamePlaceholder": "Type teacher name...",
+    "subject": "Subject",
+    "gradeLevel": "Grade Level",
+    "all": "All",
+    "search": "search"
+  },
+  "teacherDetails": {
+    "firstLessonFree": "First Lesson Free",
+    "hourlyRate": "Hourly Rate:",
+    "lessonType": "Lesson Type:",
+    "rating": "Rating:",
+    "sessions": "Sessions:",
+    "aboutMe": "About Me",
+    "defaultOverview": "I am a passionate educator dedicated to helping students achieve their full potential.",
+    "reviews": "Reviews",
+    "student": "Student",
+    "noReviews": "No reviews yet. Be the first to review this teacher!"
+  },
+  "teacherOverviews": {
+    "Gamal Abdelsatar": "Jamal Abdel Sattar is a dedicated high school mathematics teacher with a strong passion for helping students understand and enjoy the subject. He has extensive experience in explaining complex mathematical concepts in a clear and engaging way, ensuring that students of all levels can grasp the material and achieve academic success.",
+    "Mohamed Ali": "Mohamed Ali is a dedicated middle school English teacher who is passionate about helping students improve their language skills. He focuses on building a strong foundation in grammar, vocabulary, and communication, while creating a supportive and engaging classroom environment that encourages students to express themselves confidently in English.",
+    "Anna Lotfy": "Anna Lotfy is an enthusiastic Italian language teacher with a talent for making lessons interactive and enjoyable. She is committed to helping students develop strong language skills in speaking, reading, and writing, while also introducing them to Italian culture and traditions to enhance their learning experience.",
+    "Asmaa Gamal": "Asmaa Gamal is a passionate middle school science teacher who is committed to making learning exciting and accessible for her students. She uses creative teaching methods and real-life examples to help students understand scientific concepts and develop a love for discovery.",
+    "Mohanad Soliman": "Mohannad Soliman is an experienced history teacher for both middle and high school levels. He is dedicated to bringing history to life through engaging stories, interactive discussions, and critical thinking activities. His teaching helps students understand the past, connect it to the present, and develop a deeper appreciation for historical events and their impact on the world.",
+    "Mona Waheed": "Mona Waheed is a dedicated geography teacher for both middle and high school students. She has a talent for making geography engaging by connecting lessons to real-world examples and current events. Her teaching style encourages curiosity, critical thinking, and a deeper understanding of the world's landscapes, cultures, and environments.",
+    "Yasser Yahia": "Yasser Yehia is a skilled high school chemistry teacher with a passion for simplifying complex scientific concepts. He uses clear explanations, experiments, and real-life applications to help students understand chemistry and develop strong problem-solving skills. His lessons inspire curiosity and a deeper appreciation for the subject.",
+    "Marawan Abdekader": "Marwan Abdelkader is a dedicated high school physics teacher who excels at making challenging concepts clear and engaging. He uses practical examples, demonstrations, and problem-solving exercises to help students grasp the principles of physics and apply them in real-life situations. His approach encourages analytical thinking and a genuine interest in science.",
+    "Abdelrahman Gamal": "Abdelrahman Gamal is a passionate high school French teacher who is committed to helping students master the language with confidence. He combines grammar, vocabulary, and conversation practice with engaging cultural insights, making learning both enjoyable and effective. His teaching style encourages active participation and continuous improvement.",
+    "Yasser Ibrahim": "Yasser Ibrahim is a dedicated biology teacher for both middle and high school students. He has a talent for making the subject engaging by connecting biological concepts to everyday life and the natural world. Through clear explanations, visuals, and interactive activities, he inspires students to explore science with curiosity and enthusiasm.",
+    "Afnan Elgendy": "Afnan El Gendy is a passionate middle school English teacher who focuses on building her students' confidence in speaking, reading, and writing. She uses interactive activities, engaging materials, and clear explanations to make learning English enjoyable and effective. Her supportive teaching style encourages students to express themselves freely.",
+    "Ahmed Elnagar": "Ahmed El Nagar is a dedicated high school psychology teacher who is passionate about helping students understand human behavior and mental processes. He presents psychological concepts in an engaging and relatable way, encouraging critical thinking and self-awareness. His lessons inspire curiosity and a deeper interest in the subject.",
+    "Aya Ahmed": "Aya Ahmed is a passionate middle school biology teacher who brings science to life through engaging explanations and practical examples. She helps students understand complex concepts by connecting them to everyday life, fostering curiosity and a love for learning about the natural world.",
+    "Samira Noureldin": "Samira Nour El Din is a dedicated high school Italian teacher who combines language learning with cultural exploration. She uses interactive activities, conversation practice, and engaging materials to help students build strong speaking, reading, and writing skills. Her lessons make learning Italian both enjoyable and effective.",
+    "Mostafa Anwar": "Mostafa Anwar is a skilled mathematics teacher for both middle and high school levels. He is dedicated to helping students understand mathematical concepts with clarity and confidence. Using step-by-step explanations, practical examples, and problem-solving exercises, he makes math engaging and accessible for learners of all abilities.",
+    "Hassan Elgammal": "Hassan El Gammal is a dedicated high school chemistry teacher who is passionate about making complex scientific concepts easy to understand. He uses clear explanations, engaging experiments, and real-life applications to help students connect with the subject and develop strong problem-solving skills.",
+    "Hazem Kassem": "Hazem Kassem is a passionate high school science teacher who is committed to making learning engaging and meaningful. He explains scientific concepts clearly and uses real-life examples, experiments, and discussions to help students understand and apply their knowledge. His teaching inspires curiosity and a love for science.",
+    "Ayman Hafez": "Ayman Hafez is an experienced history teacher for both middle and high school levels. He brings the past to life through engaging storytelling, interactive discussions, and clear explanations. His lessons help students understand historical events, their causes, and their impact on the world, encouraging critical thinking and a deeper appreciation for history.",
+    "Maria Elgendy": "Maria El Gendy is a dedicated high school psychology teacher who is passionate about helping students explore the science of the mind and behavior. She presents psychological concepts in a clear, engaging way, encouraging self-reflection, critical thinking, and active class participation. Her lessons inspire curiosity and a deeper understanding of human nature.",
+    "Maria Mohamed": "Maria Mohamed is a dedicated educator who is passionate about helping students achieve their full potential. She creates an engaging and supportive learning environment that encourages students to explore, question, and grow academically and personally.",
+    "Omar El Attar": "Omar El Attar is a passionate middle school geography teacher who makes learning about the world exciting and accessible. He uses maps, visuals, and real-life examples to help students understand geographical concepts and connect them to everyday life. His engaging teaching style encourages curiosity and exploration."
+  },
+  "teacherAvailability": {
+    "availableTimes": "Available Times",
+    "individualLessons": "Individual Lessons",
+    "groupLessons": "Group Lessons",
+    "noAvailableDates": "No available dates",
+    "noAvailableGroupDates": "No available group dates",
+    "dateFormats": {
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "august": "Aug",
+      "september": "Sep",
+      "october": "Oct",
+      "november": "Nov",
+      "december": "Dec",
+      "january": "Jan",
+      "february": "Feb",
+      "march": "Mar",
+      "april": "Apr",
+      "may": "May",
+      "june": "Jun",
+      "july": "Jul",
+      "aug": "Aug",
+      "sep": "Sep",
+      "oct": "Oct",
+      "nov": "Nov",
+      "dec": "Dec",
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "jun": "Jun",
+      "jul": "Jul"
+    },
+    "timeFormats": {
+      "am": "AM",
+      "pm": "PM"
+    },
+    "commonDates": {
+      "august30": "August 30",
+      "september4": "September 4",
+      "september5": "September 5",
+      "september6": "September 6"
+    },
+    "commonTimes": {
+      "7pm": "7:00 PM",
+      "8am": "8:00 AM",
+      "10am": "10:00 AM",
+      "5pm": "5:00 PM",
+      "6pm": "6:00 PM"
+    }
+  },
+  "subjects": {
+    "Biology": "Biology",
+    "Chemistry": "Chemistry",
+    "Physics": "Physics",
+    "Science": "Science",
+    "Math": "Math",
+    "Maths": "Math",
+    "English": "English",
+    "History": "History",
+    "Geography": "Geography",
+    "French": "French",
+    "Italy": "Italy",
+    "Psychology": "Psychology",
+    "Sychology": "Psychology"
+  },
+  "gradeLevels": {
+    "Preparatory": "Preparatory",
+    "Secondary": "Secondary",
+    "Preparatory and Secondary": "Preparatory and Secondary"
+  },
+  "success": "Success",
+  "warning": "Warning",
+  "info": "Information",
+    "homePage": {
+    "banner": {
+      "title": "find the most exciting",
+      "courses": "courses",
+      "subtitle": "Learn smarter, anywhere, with expert-led, hands-on lessons. Master new skills with confidence and unlock opportunities for your future.",
+      "findTeacher": "find your teacher",
+      "searchPlaceholder": "search by teacher name",
+      "subjects": {
+        "psychology": "Psychology",
+        "mathematics": "Mathematics",
+        "math": "Math",
+        "physics": "Physics",
+        "chemistry": "Chemistry",
+        "biology": "Biology",
+        "science": "Science",
+        "english": "English",
+        "history": "History",
+        "geography": "Geography",
+        "computer science": "Computer Science",
+        "programming": "Programming",
+        "art": "Art",
+        "music": "Music",
+        "sports": "Sports",
+        "languages": "Languages",
+        "economics": "Economics",
+        "business": "Business",
+        "literature": "Literature",
+        "philosophy": "Philosophy",
+        "italy": "Italy",
+        "Sychology": "Psychology",
+        "sychology": "Psychology",
+        "Maths": "Math",
+        "maths": "Math",
+        "geography": "Geography"
+      },
+      "chatBubbles": {
+        "greatTeacher": "Great Teacher",
+        "superClear": "Super Clear",
+        "amazingSession": "Amazing Session"
+      },
+      "comments": {
+        "explainsConceptsClearly": "Explains concepts very clearly.",
+        "goodTeacherButSessionsCouldBeMoreInteractive": "Good teacher, but sessions could be more interactive.",
+        "makesLearningEnglishEasier": "Mr. Mohamed Ali makes learning English so much easier. He explains everything clearly and gives us many examples to practice. I feel more confident speaking and writing in English because of his lessons.",
+        "enjoyClassesPatientFriendly": "I really enjoy Mr. Mohamed Ali's classes. He is patient, friendly, and always encourages us to do our best. Thanks to him, my English grades have improved a lot.",
+        "makesLearningVeryEnjoyable": "Makes learning very enjoyable.",
+        "makesScienceReallyInteresting": "Ms. Asmaa Gamal makes science really interesting. She explains topics in a way that is easy to understand and always gives us fun experiments to try",
+        "neverUsedToEnjoyScience": "I never used to enjoy science, but Ms. Asmaa's lessons changed that. She is kind, patient, and always ready to answer our questions.",
+        "makesHistoryExciting": "Mr. Mohannad Soliman makes history exciting and easy to follow. His way of telling stories keeps the whole class interested from start to finish.",
+        "usedToThinkHistoryBoring": "I used to think history was boring, but Mr. Mohannad's lessons changed my mind. He explains events clearly and helps us understand why they matter today.",
+        "makesGeographyFun": "Ms. Mona Waheed makes geography fun and interesting. She always explains things in a way that is easy to understand and uses great examples from real life",
+        "enjoyClassesDifferentCountries": "I enjoy Ms. Mona's classes because she makes learning about different countries and cultures exciting. She inspires us to explore and learn more about the world",
+        "explainsChemistryEasy": "Mr. Yasser Yehia explains chemistry in a way that makes it easy to understand. His experiments are always fun and help us remember the lessons better.",
+        "usedToStruggleWithChemistry": "I used to struggle with chemistry, but Mr. Yasser's clear teaching style and patience helped me improve a lot. Now I actually enjoy the subject.",
+        "makesPhysicsEasier": "Mr. Marwan Abdelkader makes physics easier to understand. His examples and explanations help me remember the lessons clearly.",
+        "enjoyPhysicsNow": "I enjoy physics now because Mr. Marwan shows us how it relates to everyday life. His classes are always interesting and motivating.",
+        "makesLearningFrenchFun": "Mr. Abdelrahman Gamal makes learning French fun and interactive. His way of teaching helps me speak and understand the language better.",
+        "likeClassesExplainsClearly": "I like Mr. Abdelrahman's classes because he explains everything clearly and always encourages us to practice. My French has improved a lot thanks to him.",
+        "makesBiologyLessonsExciting": "Mr. Yasser Ibrahim makes biology lessons exciting and easy to understand. His explanations help me remember the topics better.",
+        "enjoyClassesRealLifeExamples": "I enjoy Mr. Yasser's classes because he uses real-life examples and makes learning about nature and the human body very interesting.",
+        "makesEnglishLessonsFun": "Ms. Afnan El Gendy makes English lessons fun and easy to follow. She always helps us when we don't understand something.",
+        "improvedLotInEnglish": "I have improved a lot in English because of Ms. Afnan's teaching. She is patient, kind, and always encourages us to do our best.",
+        "explainsPsychologyClear": "Mr. Ahmed El Nagar explains psychology in a clear and interesting way. His examples help me understand the concepts better.",
+        "enjoyClassesThinkDifferently": "I enjoy Mr. Ahmed's classes because they make me think differently about people and behavior. He is patient and always answers our questions.",
+        "makesBiologyFun": "Ms. Aya Ahmed makes biology fun and easy to understand. She always explains things in a simple way that helps me remember the lessons.",
+        "enjoyClassesRealLifeExamplesBiology": "I enjoy Ms. Aya's classes because she uses real-life examples and makes learning about plants, animals, and the human body exciting.",
+        "makesLearningItalianInteresting": "Ms. Samira Nour El Din makes learning Italian interesting and fun. She always encourages us to speak and practice in class.",
+        "improvedLotInItalian": "I have improved a lot in Italian thanks to Ms. Samira's clear explanations and friendly teaching style. She makes every lesson enjoyable.",
+        "explainsMathEasy": "Mr. Mostafa Anwar explains math in a way that is easy to follow. His clear steps help me solve problems with confidence.",
+        "usedToFindMathDifficult": "I used to find math difficult, but Mr. Mostafa's teaching style made it much easier for me. His classes are always well-organized and interesting.",
+        "makesChemistryInteresting": "Mr. Hassan El Gamal makes chemistry interesting and easy to learn. His experiments help me remember the lessons better.",
+        "enjoyClassesExplainsClearlyChemistry": "I enjoy Mr. Hassan's classes because he explains everything clearly and is always ready to answer our questions.",
+        "makesScienceLessonsExciting": "Mr. Hazem Kassem makes science lessons exciting and easy to understand. His experiments are always fun and help us learn better.",
+        "enjoyClassesConnectsRealLife": "I enjoy Mr. Hazem's classes because he explains topics clearly and connects them to real life, which makes learning more interesting.",
+        "makesHistoryInteresting": "Mr. Ayman Hafez makes history interesting and easy to follow. His storytelling keeps me engaged throughout the lesson",
+        "usedToFindHistoryBoring": "I used to find history boring, but Mr. Ayman's way of teaching made me enjoy it. He explains events clearly and shows why they are important today.",
+        "makesPsychologyInteresting": "Ms. Maria El Gendy makes psychology interesting and easy to understand. Her examples help me connect the lessons to real life",
+        "enjoyClassesEncouragesDeepThinking": "I enjoy Ms. Maria's classes because she encourages us to think deeply and share our opinions. She makes learning psychology fun and engaging.",
+        "makesGeographyLessonsFun": "Mr. Omar El Attar makes geography lessons fun and easy to understand. I always look forward to his classes.",
+        "enjoyTeachingGreatExamples": "I enjoy Mr. Omar's teaching because he uses great examples and explains everything clearly. Geography has become one of my favorite subjects."
+      }
+    },
+    "studentNames": {
+      "Omar Khaled": "Omar Khaled",
+      "Sara Mohamed": "Sara Mohamed",
+      "Samar Khaled": "Samar Khaled",
+      "Ola Mohamed": "Ola Mohamed",
+      "Youssef Adel": "Youssef Adel",
+      "Aya Magdy": "Aya Magdy",
+      "Nada Adel": "Nada Adel",
+      "Alaa Kamal": "Alaa Kamal",
+      "Mostafa saber": "Mostafa Saber",
+      "Aya Kamal": "Aya Kamal",
+      "Menna Ahmed": "Menna Ahmed",
+      "Ahmed Mohamed": "Ahmed Mohamed",
+      "Nelly Mahrous": "Nelly Mahrous",
+      "Faiza Ahmed": "Faiza Ahmed",
+      "Belal Ahmed": "Belal Ahmed",
+      "Mohamed Mahmoud": "Mohamed Mahmoud",
+      "Sawsan": "Sawsan",
+      "Nermin Maher": "Nermin Maher",
+      "Shereen Ahmed": "Shereen Ahmed",
+      "Fawaz Alaa": "Fawaz Alaa",
+      "Malk Adel": "Malk Adel",
+      "Reda Kamal": "Reda Kamal",
+      "Nada Yossry": "Nada Yossry",
+      "Ahmed Kamal": "Ahmed Kamal",
+      "Sara Ahmed": "Sara Ahmed",
+      "Kareem": "Kareem",
+      "Adel": "Adel",
+      "Amira": "Amira",
+      "Mourad": "Mourad",
+      "Omar Magdy": "Omar Magdy",
+      "Maram": "Maram",
+      "Youssef": "Youssef"
+    },
+    "studentComments": {
+      "Omar Khaled": "Explains concepts very clearly.",
+      "Sara Mohamed": "Good teacher, but sessions could be more interactive.",
+      "Samar Khaled": "Mr. Mohamed Ali makes learning English so much easier. He explains everything clearly and gives us many examples to practice. I feel more confident speaking and writing in English because of his lessons.",
+      "Ola Mohamed": "I really enjoy Mr. Mohamed Ali's classes. He is patient, friendly, and always encourages us to do our best. Thanks to him, my English grades have improved a lot.",
+      "Youssef Adel": "Makes learning very enjoyable.",
+      "Aya Magdy": "Good teacher, but sessions could be more interactive.",
+      "Nada Adel": "Ms. Asmaa Gamal makes science really interesting. She explains topics in a way that is easy to understand and always gives us fun experiments to try",
+      "Alaa Kamal": "I never used to enjoy science, but Ms. Asmaa's lessons changed that. She is kind, patient, and always ready to answer our questions.",
+      "Mostafa saber": "Mr. Mohannad Soliman makes history exciting and easy to follow. His way of telling stories keeps the whole class interested from start to finish.",
+      "Aya Kamal": "I used to think history was boring, but Mr. Mohannad's lessons changed my mind. He explains events clearly and helps us understand why they matter today.",
+      "Menna Ahmed": "Ms. Mona Waheed makes geography fun and interesting. She always explains things in a way that is easy to understand and uses great examples from real life",
+      "Ahmed Mohamed": "I enjoy Ms. Mona's classes because she makes learning about different countries and cultures exciting. She inspires us to explore and learn more about the world",
+      "Nelly Mahrous": "Mr. Yasser Yehia explains chemistry in a way that makes it easy to understand. His experiments are always fun and help us remember the lessons better.",
+      "Faiza Ahmed": "I used to struggle with chemistry, but Mr. Yasser's clear teaching style and patience helped me improve a lot. Now I actually enjoy the subject.",
+      "Belal Ahmed": "Mr. Marwan Abdelkader makes physics easier to understand. His examples and explanations help me remember the lessons clearly.",
+      "Mohamed Mahmoud": "I enjoy physics now because Mr. Marwan shows us how it relates to everyday life. His classes are always interesting and motivating.",
+      "Sawsan": "Mr. Yasser Ibrahim makes biology lessons exciting and easy to understand. His explanations help me remember the topics better.",
+      "Nermin Maher": "I enjoy Mr. Yasser's classes because he uses real-life examples and makes learning about nature and the human body very interesting.",
+      "Shereen Ahmed": "Ms. Afnan El Gendy makes English lessons fun and easy to follow. She always helps us when we don't understand something.",
+      "Fawaz Alaa": "I have improved a lot in English because of Ms. Afnan's teaching. She is patient, kind, and always encourages us to do our best.",
+      "Malk Adel": "Mr. Ahmed El Nagar explains psychology in a clear and interesting way. His examples help me understand the concepts better.",
+      "Reda Kamal": "I enjoy Mr. Ahmed's classes because they make me think differently about people and behavior. He is patient and always answers our questions.",
+      "Nada Yossry": "Ms. Samira Nour El Din makes learning Italian interesting and fun. She always encourages us to speak and practice in class.",
+      "Ahmed Kamal": "I have improved a lot in Italian thanks to Ms. Samira's clear explanations and friendly teaching style. She makes every lesson enjoyable.",
+      "Sara Ahmed": "Mr. Hassan El Gamal makes chemistry interesting and easy to learn. His experiments help me remember the lessons better.",
+      "Kareem": "I enjoy Mr. Hassan's classes because he explains everything clearly and is always ready to answer our questions.",
+      "Adel": "Mr. Hazem Kassem makes science lessons exciting and easy to understand. His experiments are always fun and help us learn better.",
+      "Amira": "I enjoy Mr. Hazem's classes because he explains topics clearly and connects them to real life, which makes learning more interesting.",
+      "Mourad": "Mr. Ayman Hafez makes history interesting and easy to follow. His storytelling keeps me engaged throughout the lesson",
+      "Omar Magdy": "I used to find history boring, but Mr. Ayman's way of teaching made me enjoy it. He explains events clearly and shows why they are important today.",
+      "Maram": "Mr. Omar El Attar makes geography lessons fun and easy to understand. I always look forward to his classes.",
+      "Youssef": "I enjoy Mr. Omar's teaching because he uses great examples and explains everything clearly. Geography has become one of my favorite subjects."
+    },
+    "teacherStudentComments": {
+      "Gamal Abdelsatar": {
+        "Omar Khaled": "Explains concepts very clearly.",
+        "Sara Mohamed": "Good teacher, but sessions could be more interactive."
+      },
+      "Mohamed Ali": {
+        "Samar Khaled": "Mr. Mohamed Ali makes learning English so much easier. He explains everything clearly and gives us many examples to practice. I feel more confident speaking and writing in English because of his lessons.",
+        "Ola Mohamed": "I really enjoy Mr. Mohamed Ali's classes. He is patient, friendly, and always encourages us to do our best. Thanks to him, my English grades have improved a lot."
+      },
+      "Anna Lotfy": {
+        "Youssef Adel": "Makes learning very enjoyable.",
+        "Aya Magdy": "Good teacher, but sessions could be more interactive."
+      },
+      "Asmaa Gamal": {
+        "Nada Adel": "Ms. Asmaa Gamal makes science really interesting. She explains topics in a way that is easy to understand and always gives us fun experiments to try",
+        "Alaa Kamal": "I never used to enjoy science, but Ms. Asmaa's lessons changed that. She is kind, patient, and always ready to answer our questions."
+      },
+      "Mohanad Soliman": {
+        "Mostafa saber": "Mr. Mohannad Soliman makes history exciting and easy to follow. His way of telling stories keeps the whole class interested from start to finish.",
+        "Aya Kamal": "I used to think history was boring, but Mr. Mohannad's lessons changed my mind. He explains events clearly and helps us understand why they matter today."
+      },
+      "Mona Waheed": {
+        "Menna Ahmed": "Ms. Mona Waheed makes geography fun and interesting. She always explains things in a way that is easy to understand and uses great examples from real life",
+        "Ahmed Mohamed": "I enjoy Ms. Mona's classes because she makes learning about different countries and cultures exciting. She inspires us to explore and learn more about the world"
+      },
+      "Yasser Yahia": {
+        "Nelly Mahrous": "Mr. Yasser Yehia explains chemistry in a way that makes it easy to understand. His experiments are always fun and help us remember the lessons better.",
+        "Faiza Ahmed": "I used to struggle with chemistry, but Mr. Yasser's clear teaching style and patience helped me improve a lot. Now I actually enjoy the subject."
+      },
+      "Marawan Abdekader": {
+        "Belal Ahmed": "Mr. Marwan Abdelkader makes physics easier to understand. His examples and explanations help me remember the lessons clearly.",
+        "Mohamed Mahmoud": "I enjoy physics now because Mr. Marwan shows us how it relates to everyday life. His classes are always interesting and motivating."
+      },
+      "Abdelrahman Gamal": {
+        "Nada Adel": "Mr. Abdelrahman Gamal makes learning French fun and interactive. His way of teaching helps me speak and understand the language better.",
+        "Alaa Kamal": "I like Mr. Abdelrahman's classes because he explains everything clearly and always encourages us to practice. My French has improved a lot thanks to him."
+      },
+      "Yasser Ibrahim": {
+        "Sawsan": "Mr. Yasser Ibrahim makes biology lessons exciting and easy to understand. His explanations help me remember the topics better.",
+        "Nermin Maher": "I enjoy Mr. Yasser's classes because he uses real-life examples and makes learning about nature and the human body very interesting."
+      },
+      "Afnan Elgendy": {
+        "Shereen Ahmed": "Ms. Afnan El Gendy makes English lessons fun and easy to follow. She always helps us when we don't understand something.",
+        "Fawaz Alaa": "I have improved a lot in English because of Ms. Afnan's teaching. She is patient, kind, and always encourages us to do our best."
+      },
+      "Ahmed Elnagar": {
+        "Malk Adel": "Mr. Ahmed El Nagar explains psychology in a clear and interesting way. His examples help me understand the concepts better.",
+        "Reda Kamal": "I enjoy Mr. Ahmed's classes because they make me think differently about people and behavior. He is patient and always answers our questions."
+      },
+      "Aya Ahmed": {
+        "Nada Adel": "Ms. Aya Ahmed makes biology fun and easy to understand. She always explains things in a simple way that helps me remember the lessons.",
+        "Alaa Kamal": "I enjoy Ms. Aya's classes because she uses real-life examples and makes learning about plants, animals, and the human body exciting."
+      },
+      "Samira Noureldin": {
+        "Nada Yossry": "Ms. Samira Nour El Din makes learning Italian interesting and fun. She always encourages us to speak and practice in class.",
+        "Ahmed Kamal": "I have improved a lot in Italian thanks to Ms. Samira's clear explanations and friendly teaching style. She makes every lesson enjoyable."
+      },
+      "Mostafa Anwar": {
+        "Nada Adel": "Mr. Mostafa Anwar explains math in a way that is easy to follow. His clear steps help me solve problems with confidence.",
+        "Alaa Kamal": "I used to find math difficult, but Mr. Mostafa's teaching style made it much easier for me. His classes are always well-organized and interesting."
+      },
+      "Hassan Elgammal": {
+        "Sara Ahmed": "Mr. Hassan El Gamal makes chemistry interesting and easy to learn. His experiments help me remember the lessons better.",
+        "Kareem": "I enjoy Mr. Hassan's classes because he explains everything clearly and is always ready to answer our questions."
+      },
+      "Hazem Kassem": {
+        "Adel": "Mr. Hazem Kassem makes science lessons exciting and easy to understand. His experiments are always fun and help us learn better.",
+        "Amira": "I enjoy Mr. Hazem's classes because he explains topics clearly and connects them to real life, which makes learning more interesting."
+      },
+      "Ayman Hafez": {
+        "Mourad": "Mr. Ayman Hafez makes history interesting and easy to follow. His storytelling keeps me engaged throughout the lesson",
+        "Omar Magdy": "I used to find history boring, but Mr. Ayman's way of teaching made me enjoy it. He explains events clearly and shows why they are important today."
+      },
+      "Maria Elgendy": {
+        "Nada Adel": "Ms. Maria El Gendy makes psychology interesting and easy to understand. Her examples help me connect the lessons to real life",
+        "Alaa Kamal": "I enjoy Ms. Maria's classes because she encourages us to think deeply and share our opinions. She makes learning psychology fun and engaging."
+      },
+      "Omar El Attar": {
+        "Maram": "Mr. Omar El Attar makes geography lessons fun and easy to understand. I always look forward to his classes.",
+        "Youssef": "I enjoy Mr. Omar's teaching because he uses great examples and explains everything clearly. Geography has become one of my favorite subjects."
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "description": "Learn from top-qualified tutors at your convenience. Book private or group lessons, enjoy flexible schedules, and experience interactive online classes — all in one platform."
+    },
+    "features": {
+      "easyBooking": "Easy Lesson Booking",
+      "qualifiedTeachers": "Qualified Teachers",
+      "flexibleScheduling": "Flexible Scheduling",
+      "affordablePackages": "Affordable Packages",
+      "interactiveClasses": "Interactive Online Classes",
+      "varietySubjects": "Variety of Subjects"
+    },
+    "becomeTutor": {
+      "title": "Become a Tutor",
+      "subtitle": "Share your knowledge and inspire the next generation",
+      "flexibleSchedule": "Flexible Schedule",
+      "flexibleScheduleDesc": "Teach whenever it suits you",
+      "earnIncome": "Earn Extra Income",
+      "earnIncomeDesc": "Get paid for your expertise",
+      "professionalGrowth": "Professional Growth",
+      "professionalGrowthDesc": "Improve your teaching skills",
+      "easyOnboarding": "Easy Onboarding",
+      "easyOnboardingDesc": "Start teaching in just a few clicks",
+      "joinUs": "join us"
+    },
+    "recommendedTeachers": {
+      "title": "Recommended Teachers",
+      "viewMore": "View More",
+      "bookNow": "Book Now"
+    },
+                   "teacherNames": {
+        "Gamal Abdelsatar": "Gamal Abdelsatar",
+        "Mohamed Ali": "Mohamed Ali",
+        "Anna Lotfy": "Anna Lotfy",
+        "Asmaa Gamal": "Asmaa Gamal",
+        "Mohanad Soliman": "Mohanad Soliman",
+        "Mona Waheed": "Mona Waheed",
+        "Yasser Yahia": "Yasser Yahia",
+        "Marawan Abdekader": "Marawan Abdekader",
+        "Abdelrahman Gamal": "Abdelrahman Gamal",
+        "Yasser Ibrahim": "Yasser Ibrahim",
+        "Afnan Elgendy": "Afnan Elgendy",
+        "Ahmed Elnagar": "Ahmed Elnagar",
+        "Aya Ahmed": "Aya Ahmed",
+        "Samira Noureldin": "Samira Noureldin",
+        "Mostafa Anwar": "Mostafa Anwar",
+        "Hassan Elgammal": "Hassan Elgammal",
+        "Hazem Kassem": "Hazem Kassem",
+        "Ayman Hafez": "Ayman Hafez",
+        "Maria Elgendy": "Maria Elgendy",
+        "Maria Mohamed": "Maria Mohamed",
+        "Omar El Attar": "Omar El Attar"
+      },
+     "services": {
+       "title": "Our Services",
+       "subtitle": "Discover comprehensive learning solutions designed to meet your educational goals",
+       "privateSessions": {
+         "title": "Private Sessions",
+         "description": "Personalized learning experience with dedicated tutors who adapt to your learning style and pace.",
+         "features": {
+           "privateEnvironment": "Private and focused environment.",
+           "directAttention": "Direct, one-on-one attention.",
+           "flexibleScheduling": "Flexible scheduling and location.",
+           "tailoredContent": "Content tailored to your needs.",
+           "immediateFeedback": "Immediate feedback from instructor."
+         }
+       },
+       "groupSessions": {
+         "title": "Group Sessions",
+         "description": "Learn alongside peers in interactive group sessions that encourage collaboration and discussion.",
+         "features": {
+           "socialLearning": "Social and collaborative learning.",
+           "peerInteraction": "Motivating peer-to-peer interaction.",
+           "learnFromOthers": "Learn from other students' questions.",
+           "smallGroups": "Small group sizes",
+           "lowCost": "Low cost, high value."
+                  }
+       }
+     },
+     "reviews": {
+       "title": "Testimonials",
+       "subtitle": "What students say about us?"
+     },
+     "footer": {
+       "description": "Book expert tutors in any subject, anytime. Track progress and achieve goals through personalized online lessons. The smart way to learn.",
+       "quickLinks": "Quick Links",
+       "home": "Home",
+       "about": "About",
+       "teachers": "Teachers",
+       "support": "Support",
+       "login": "Login",
+       "signUp": "Sign Up",
+       "contactUs": "Contact Us",
+       "email": "team.4.iti6@gmail.com",
+       "phone": "01000000000",
+       "location": "Alexandria, Egypt",
+       "subscribe": "Subscribe",
+       "subscribeDescription": "Subscribe to our newsletter and never miss a learning opportunity.",
+       "emailPlaceholder": "Your Email",
+       "copyright": "Learnify © Team 4 2025 All rights reserved."
+     }
+   },
+   "teacherPending": {
+     "title": "Complete your Profile",
+     "profileImageUrl": "Profile Image URL",
+     "profileImagePlaceholder": "https://...",
+     "invalidImageUrl": "Invalid image URL",
+     "subject": "Subject",
+     "subjectRequired": "Subject is required",
+     "gradeLevel": "Grade Level",
+     "gradeLevelRequired": "Grade Level is required",
+     "hourlyRate": "Hourly Rate",
+     "hourlyRatePlaceholder": "80 EG...",
+     "priceRequired": "Price is required",
+     "certificateRequired": "A Certificate is required",
+     "uploadingCertificate": "Uploading certificate...",
+     "certificateUploaded": "Certificate uploaded successfully!",
+     "certificateUploadFailed": "Certificate upload failed.",
+     "pleaseUploadCertificate": "Please upload a certificate.",
+     "profileAlreadyApproved": "Your profile is already approved",
+     "profileSubmitted": "Profile submitted for review.",
+     "failedToSubmitProfile": "Failed to submit profile",
+     "termsAndConditions": "I agree to the Terms and Conditions",
+     "mustAgreeBeforeSubmitting": "You must agree before submitting",
+     "submitting": "Submitting...",
+     "submitForReview": "Submit For Review"
+   },
+   "terms": {
+     "title": "Our Terms & Conditions",
+     "readTerms": "Read Terms & Conditions",
+     "accurateInformation": "I confirm that all information and documents I provide are accurate and truthful.",
+     "profileReview": "I agree that the platform has the right to review my profile and documents before approving me as a teacher.",
+     "noInappropriateContent": "I agree not to share or upload any inappropriate, offensive, or misleading content.",
+     "professionalConduct": "I agree to conduct myself professionally and respectfully when interacting with students.",
+     "accountSuspension": "I agree that the platform reserves the right to suspend or remove my account if I violate the rules or provide false information.",
+     "pricingPolicies": "I understand that lesson prices, commissions, and payment methods are subject to the platform's policies.",
+     "approvalNotGuaranteed": "I acknowledge that my approval as a teacher is not guaranteed and depends on the platform's review process."
+   },
+   "close": "Close",
+   "aboutUs": {
+     "title": "About us",
+     "description": "Learnify is an online learning platform that connects students with qualified teachers for personalized lessons. Whether one-on-one or in groups, students can easily book online sessions, manage schedules, and pay securely.",
+     "benefits": {
+       "easyBooking": {
+         "title": "Easy Booking",
+         "desc": "Students can browse teachers, check availability, and book lessons instantly."
+       },
+       "seamlessCommunication": {
+         "title": "Seamless Communication",
+         "desc": "Integrated chat and video calls to make learning smooth and interactive."
+       },
+       "smartTools": {
+         "title": "Smart Tools",
+         "desc": "Teachers can manage schedules, track student progress, and grow their business."
+       }
+     },
+     "vision": {
+       "title": "Our Vision",
+       "description": "At Learnify, we believe that education should be flexible, affordable, and accessible. Our mission is to empower students to achieve their goals while providing teachers with the tools they need to succeed in the digital era.",
+       "points": {
+         "globalCommunity": "Building a Global Learning Community",
+         "diverseResources": "Diverse Learning Resources",
+         "interactiveEngaging": "Interactive & Engaging",
+         "safeEnvironment": "Safe & Supportive Environment"
+       }
+     }
+   },
+   "contactUs": {
+     "hero": {
+       "title": "Get In Touch",
+       "description": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+     },
+     "form": {
+       "title": "Send us a Message",
+       "firstName": "First Name",
+       "lastName": "Last Name",
+       "email": "Email",
+       "subject": "Subject",
+       "message": "Message",
+       "firstNamePlaceholder": "Enter your first name",
+       "lastNamePlaceholder": "Enter your last name",
+       "emailPlaceholder": "Enter your email address",
+       "subjectPlaceholder": "Select a subject",
+       "messagePlaceholder": "Tell us how we can help you...",
+       "submitButton": "send message"
+     },
+     "validation": {
+       "firstNameRequired": "First name is required",
+       "lastNameRequired": "Last name is required",
+       "emailRequired": "Email is required",
+       "invalidEmail": "Please enter a valid email address",
+       "subjectRequired": "Please select a subject",
+       "messageRequired": "Message is required",
+       "messageMinLength": "Message must be at least 10 characters long"
+     },
+     "subjects": {
+       "general": "General Inquiry",
+       "support": "Technical Support",
+       "billing": "Billing Question",
+       "partnership": "Partnership",
+       "other": "Other"
+     },
+     "toast": {
+       "success": "Message sent successfully!",
+       "error": "Failed to send message"
+     }
+   },
+   "payment": {
+     "steps": {
+       "book": "Book",
+       "yourDetails": "Your Details",
+       "payment": "Payment"
+     },
+     "teacherDetails": "Teacher Details",
+     "sessionPrice": "Session price:",
+     "private": "Private",
+     "groupSession": "Group Session",
+     "availableDates": "Available Dates",
+     "availableTimes": "Available Times",
+     "selectDate": "Select a date",
+     "selectTime": "Select a time",
+     "back": "Back",
+     "next": "Next",
+     "finish": "Finish",
+     "confirm": "Confirm",
+     "confirmBooking": "Confirm Booking",
+     "bookingFailed": "Booking Failed",
+     "bookingError": "There was an error booking your appointment. Please try again.",
+     "bookingMessage": "Are you sure you want to book a {{sessionType}} session with {{teacherName}} on {{date}} at {{time}} for EGP{{price}}?",
+     "form": {
+       "firstName": "First Name",
+       "lastName": "Last Name",
+       "email": "Email",
+       "mobile": "Mobile",
+       "cardNumber": "Card Number",
+       "cvv": "CVV",
+       "expiryDate": "Expiry Date",
+       "cardHolder": "Card Holder",
+       "expiryPlaceholder": "(MM/YY)"
+     },
+     "validation": {
+       "firstNameRequired": "Please write your first name",
+       "firstNameInvalid": "Please enter a valid first name",
+       "lastNameRequired": "Please write your last name",
+       "lastNameInvalid": "Please enter a valid last name",
+       "emailRequired": "Email is required",
+       "emailInvalid": "Please enter a valid email address",
+       "mobileRequired": "Phone number is required",
+       "mobileInvalid": "Please enter a valid 11-digit phone number",
+       "cardNumberRequired": "Card number is required",
+       "cardNumberInvalid": "Please enter a valid 16-digit card number",
+       "cvvRequired": "CVV is required",
+       "cvvInvalid": "Please enter a valid 3-digit CVV",
+       "expiryRequired": "Expiry Date is required",
+       "expiryInvalid": "Please enter a valid expiry date (MM/YY)",
+       "cardHolderRequired": "Card Holder is required",
+       "cardHolderInvalid": "Please enter a valid name",
+       "sessionTypeRequired": "Session type is required.",
+       "dateRequired": "Date is required.",
+       "timeRequired": "Time is required."
+     }
+   }
+}

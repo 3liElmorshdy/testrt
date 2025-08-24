@@ -1,0 +1,141 @@
+/* Language Switcher Styles */
+.language-switcher {
+  display: flex;
+  align-items: center;
+}
+
+.language-icon-btn {
+  padding: 10px;
+  border: 2px solid var(--secondary-color);
+  background: var(--background-color);
+  color: var(--secondary-color);
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 18px;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  box-shadow: var(--box-shadow);
+  /* Prevent unwanted background effects */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding-box;
+}
+
+.language-icon-btn:hover {
+  background: var(--secondary-color);
+  color: var(--background-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(242, 119, 59, 0.3);
+}
+
+.language-icon-btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.language-icon-btn:active {
+  transform: translateY(0);
+  box-shadow: var(--box-shadow);
+  background: var(--background-color);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.language-icon-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(242, 119, 59, 0.2);
+}
+
+/* RTL Support */
+[dir="rtl"] {
+  text-align: right;
+  direction: rtl;
+}
+
+[dir="rtl"] .language-switcher {
+  flex-direction: row-reverse;
+}
+
+/* Global RTL support for Arabic text */
+[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3, [dir="rtl"] h4, [dir="rtl"] h5, [dir="rtl"] h6 {
+  text-align: right;
+}
+
+[dir="rtl"] p {
+  text-align: right;
+}
+
+[dir="rtl"] .container {
+  direction: rtl;
+}
+
+/* Override RTL alignment for specific centered sections */
+[dir="rtl"] .why-learnify h3,
+[dir="rtl"] .why-learnify p,
+[dir="rtl"] .services h3,
+[dir="rtl"] .services p,
+[dir="rtl"] .home-search h4 {
+  text-align: center !important;
+}
+
+/* Tighter padding for Arabic language */
+[dir="rtl"] .home-search {
+  padding: 0.25rem !important;
+}
+
+[dir="rtl"] .home-search input {
+  padding: 0.25rem 4.75rem !important;
+  height: 40px !important;
+}
+
+[dir="rtl"] .home-search h4 {
+  margin-bottom: 0.25rem !important;
+  font-size: 0.9rem !important;
+}
+
+[dir="rtl"] footer {
+  padding: 0.5rem 0 !important;
+}
+
+[dir="rtl"] footer .container {
+  padding: 0 0.5rem !important;
+}
+
+[dir="rtl"] footer h3,
+[dir="rtl"] footer h4,git init
+
+[dir="rtl"] footer p {
+  margin-bottom: 0.25rem !important;
+  line-height: 1.2 !important;
+}
+
+[dir="rtl"] footer ul li {
+  margin-bottom: 0.15rem !important;
+}
+
+[dir="rtl"] .home-search input {
+  padding-right: 4.5rem !important;
+}
+
+[dir="rtl"] footer input {
+  padding-right: 2.5rem !important;
+}
+
