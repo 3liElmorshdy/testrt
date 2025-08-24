@@ -1,0 +1,1 @@
+import{j as o,N as s,q as a}from"./index-CUnXo-ZD.js";function t(){return o.jsx(s,{to:"/",children:o.jsx("div",{className:"w-30 mb-5 mx-auto",children:o.jsx("img",{src:a,alt:"logo"})})})}export{t as L};
